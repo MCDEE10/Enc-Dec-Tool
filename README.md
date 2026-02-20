@@ -1,2 +1,18 @@
 # Enc-Dec-Tool
 It's a software or hardware application designed to secure sensitive data by converting it into an unreadable format encryption and restoring it to its original form decryption when required.
+
+
+
+           INSTALLATION FOR LINUX
+
+           STEP : 1  DOWNLOAD  Enc-Dec-Tool 
+                git clone https://github.com/MCDEE10/Enc-Dec-Tool.git
+
+
+           STEP : 2   MOVE TO  Enc-Dec-Tool DIRECTOR
+                 cd Enc-Dec-Tool 
+
+
+          STEP : 3   RUN  Enc-Dec-Tool 
+                 python Enc.py
+                  
