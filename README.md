@@ -2,7 +2,7 @@
 It's a software or hardware application designed to secure sensitive data by converting it into an unreadable format encryption and restoring it to its original form decryption when required.
 
 ![image_alt](https://github.com/MCDEE10/Enc-Dec-Tool/blob/13e853fee7b3942604da1f4bb687901bca7c2b47/markus-spiske-iar-afB0QQw-unsplash.jpg)
-
+![image_alt](https://github.com/MCDEE10/Enc-Dec-Tool/blob/916e93bbe8bb05bcaf7e0ae4a974d03e130144bd/Screenshot_2026-02-20_17_39_35.png)
            INSTALLATION FOR LINUX
 
            STEP : 1  DOWNLOAD  Enc-Dec-Tool 
